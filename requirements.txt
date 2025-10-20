@@ -1,0 +1,4 @@
+streamlit>=1.37
+pandas>=2.0
+bcrypt>=4.1
+supabase>=2.6  # only if you're using the Supabase backend
